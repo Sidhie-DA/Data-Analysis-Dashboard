@@ -47,5 +47,7 @@ To ensure accuracy and reliability, the following steps were taken:
 - **Total Revenue:** $96,623  
 - **Average Rating:** 3.9  
 - **Happy Callers:** 500  
-- **Total Duration:** 89,850 seconds  
+- **Total Duration:** 89,850 seconds
+
+## Dashboard Image
 
