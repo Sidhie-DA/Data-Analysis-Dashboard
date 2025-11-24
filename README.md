@@ -29,3 +29,23 @@ This Excel dashboard provides a comprehensive overview of call center performanc
 
   ## Dashboard Interaction
 - <a href="https://github.com/Sidhie-DA/Data-Analysis-Dashboard/blob/main/Dashboard%20Image.png">View Dashboard</a>
+
+## ⚙️ Data Preparation Workflow
+
+To ensure accuracy and reliability, the following steps were taken:
+
+- ✅ Verified the dataset for missing values and anomalies, and resolved inconsistencies.
+- ✅ Standardized data types, formats, and values to maintain consistency.
+- ✅ Created pivot tables aligned with key business questions.
+- ✅ Integrated all pivot tables into a unified dashboard with slicers for dynamic filtering and interactivity.
+
+---
+
+## 📊 Key Metrics & Insights
+
+- **Total Calls:** 1,000  
+- **Total Revenue:** $96,623  
+- **Average Rating:** 3.9  
+- **Happy Callers:** 500  
+- **Total Duration:** 89,850 seconds  
+
