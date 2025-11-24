@@ -6,3 +6,23 @@ This Excel dashboard provides a comprehensive overview of call center performanc
 
 ## Dataset Used:
 - <a href="https://github.com/Sidhie-DA/Data-Analysis-Dashboard/blob/main/Call%20Centre%20Data.xlsx">Dataset</a>
+
+## 📌 Selected KPI Questions
+
+- **📞 Call Volume & Distribution:**  
+  *What is the total number of calls received across all regions in 2023?*
+
+- **💰 Financial Performance:**  
+  *Which region generated the highest revenue from call activity?*
+
+- **⏱️ Call Duration:**  
+  *What is the total duration of calls handled throughout the year?*
+
+- **👥 Caller Demographics:**  
+  *How does caller gender distribution vary across weekdays?*
+
+- **⭐ Customer Satisfaction:**  
+  *How many callers rated their experience with 5 stars?*
+
+- **🧑‍💼 Representative Performance:**  
+  *Which representative achieved the highest revenue ranking within their region?*
