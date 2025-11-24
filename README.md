@@ -26,3 +26,6 @@ This Excel dashboard provides a comprehensive overview of call center performanc
 
 - **🧑‍💼 Representative Performance:**  
   *Which representative achieved the highest revenue ranking within their region?*
+
+  ## Dashboard Interaction
+- <a href="https://github.com/Sidhie-DA/Data-Analysis-Dashboard/blob/main/Dashboard%20Image.png">View Dashboard</a>
