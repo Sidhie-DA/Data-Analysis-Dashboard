@@ -50,4 +50,6 @@ To ensure accuracy and reliability, the following steps were taken:
 - **Total Duration:** 89,850 seconds
 
 ## Dashboard Image
+<img width="1236" height="636" alt="Dashboard Image" src="https://github.com/user-attachments/assets/0aefd75d-4af7-4837-b5fd-e8243bb8d090" />
+
 
