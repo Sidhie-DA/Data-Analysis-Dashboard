@@ -52,4 +52,32 @@ To ensure accuracy and reliability, the following steps were taken:
 ## Dashboard Image
 <img width="1236" height="636" alt="Dashboard Image" src="https://github.com/user-attachments/assets/0aefd75d-4af7-4837-b5fd-e8243bb8d090" />
 
+## 📌 Purpose
+
+This dashboard enables stakeholders to:
+
+- Monitor call center efficiency  
+- Identify high-performing regions and representatives  
+- Understand caller behavior and satisfaction trends  
+- Make data-driven decisions to improve service quality  
+
+---
+
+## 📂 Tools Used
+
+- Microsoft Excel  
+- Pivot Tables  
+- Slicers  
+- Conditional Formatting  
+- Data Cleaning Techniques  
+
+---
+
+## ✅ Final Conclusion
+
+This dashboard empowers stakeholders to monitor call center efficiency, identify high-performing regions and representatives, and uncover patterns in caller behavior. By combining clean data, dynamic visuals, and targeted KPIs, it serves as a decision-making tool to enhance customer satisfaction and operational performance.
+
+---
+
+
 
